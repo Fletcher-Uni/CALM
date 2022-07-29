@@ -35,10 +35,6 @@ https://trello.com/b/EqNtckJh/app-sprint-board
 
 ### Google Drive Folder
 
-A good place to aggregate and share articles, manuscript drafts, etc; provide link. 
-
-### Zotero library
-
 https://drive.google.com/drive/folders/124__q9-rjkcWuZoOD-pf4GP-uaG1osGQ?usp=sharing
 
 ### Code documentation
